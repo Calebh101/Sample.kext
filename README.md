@@ -5,6 +5,8 @@
 
 A [Lilu](https://github.com/acidanthera/Lilu) plug-in that simply prints Hello World! during verbose boot.
 
+**Note**: Whenever you fork or clone this repository, make sure to use `git submodule update` to update the included submodules.
+
 </br>
 <h1 align="center">Purpose</h1>
 </br>
